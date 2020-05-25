@@ -4,6 +4,8 @@ This is a simple website how to use git aand github togeather
 
 ##Introduction
 
+vimal kumar
+
 ##Purpose
 
 ##Deployment
