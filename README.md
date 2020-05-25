@@ -11,6 +11,7 @@ vimal kumar
 ##Deployment
 
 ##How To Contribute
+Please  fork this repoitry and the issue pull request reviews
 
 ###COPYRIGHT
 2020 @
