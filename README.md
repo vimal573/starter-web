@@ -7,6 +7,7 @@ This is a simple website how to use git aand github togeather
 vimal kumar
 
 ##Purpose
+Adding a line for rebasing example
 
 ##Deployment
 
