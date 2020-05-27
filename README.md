@@ -15,4 +15,4 @@ Adding a line for rebasing example, more  changes for my feature branch too
 Please  fork this repoitry and the issue pull request reviews
 
 ###COPYRIGHT
-2020 @
+2020 @ copyright All rights reserved
